@@ -10,8 +10,6 @@ int main()
 }
 ```
 
-![CPE102 class environment](https://github.com/tmwatchanan/CPE-CMU-26/raw/master/cpe102_class_envi.jpg)
-
 ## My Information
 > Please insert your answer between \` and \`.
 
@@ -24,3 +22,4 @@ int main()
 7. Message to lecturers or TAs: ``
 
 ---
+![CPE102 class environment](https://github.com/tmwatchanan/CPE-CMU-26/raw/master/cpe102_class_envi.jpg)
